@@ -10,7 +10,8 @@ $ sudo su -
 # source env/bin/activate
 # python server/manual_password_reset.py
 ```
-(images/HoneyPot Admin.png)
+![admin screenshot](https://github.com/mose339/Honeypot/blob/main/images/HoneyPot%20Admin.png)
 
 
 3. I created a VM called "honeypot-1".
+![honeypot attacks](https://github.com/mose339/Honeypot/blob/main/images/HoneyPot%20Attacks.png)
